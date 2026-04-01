@@ -24,7 +24,7 @@ Custom game engine built from scratch to explore **low-level game programming**.
 
 [Game Project]\
 ↑ (CMake)\
-[Core Engine]\
+[Core Engine]
 
 **Key design decisions:**
 - **Engine as separate library** - Link via CMake (reduceds recompiles)
