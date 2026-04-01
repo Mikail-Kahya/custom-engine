@@ -49,3 +49,6 @@ Custom game engine built from scratch to explore **low-level game programming**.
 
 ## Build
 I built it through MSVC but any way of compiling a CMake project will work. The launching of the project can be found in the Out folder.    
+
+## References
+- [Game Programming Patterns](https://gameprogrammingpatterns.com)
