@@ -5,8 +5,8 @@ C++20, GLFW | [GitHub Repo](https://github.com/Mikail-Kahya/custom-engine) | [Po
 
 
 ## Overview
-Custom game engine built from scratch to explore **low-level game programming**. Features an **engine library** that links into any project via CMake, plus core engine systems for input, commands, and resource loading. Test demo loads a test project of Tron battle tanks using keyboard/XInput controllers.
-
+Custom game engine built from scratch to explore **low-level game programming**. Features an **engine library** that links into any project via CMake, plus core engine systems for input, commands, and resource loading. Test demo loads a test project of Tron battle tanks using keyboard/XInput controllers.\
+\
 **Core goal:** Learn programming patterns while maintaining clean engine architecture that supports multiple game projects.
 
 ## Design Philosophy
@@ -22,9 +22,9 @@ Custom game engine built from scratch to explore **low-level game programming**.
 
 ## Architecture
 
-[Game Project]/n
-↑ (CMake)\n
-[Core Engine]\n
+[Game Project]\
+↑ (CMake)\
+[Core Engine]\
 
 **Key design decisions:**
 - **Engine as separate library** - Link via CMake (reduceds recompiles)
