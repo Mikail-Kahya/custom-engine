@@ -1,5 +1,5 @@
 # 2D custome engine
-C++20, GLFW | [GitHub Repo](https://github.com/Mikail-Kahya/DAE-Prog4) | [Portfolio](https://mikailkahya.netlify.app/engine)
+C++20, GLFW | [GitHub Repo](https://github.com/Mikail-Kahya/custom-engine) | [Portfolio](https://mikailkahya.netlify.app/engine)
 
 ![tron-card-m](https://github.com/user-attachments/assets/b76e3ec9-8b18-4a8d-91bf-6e5aa0c75c14)
 
